@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="CarnivalCoinToss">
+			<method name="TossCoin"/>
+			<method name="PickUpCoin"/>
+		</type>
+		<type fullname="CarnivalWheel">
+			<method name="SpinWheel"/>
+		</type>
+		<type fullname="CarnivalPlinko">
+			<method name="DropCoin"/>
+		</type>
+	</assembly>
+</linker>
